@@ -5,13 +5,17 @@ const cors = require("cors");
 
 app.use(cors());
 
-const courses = require("./data/courses.json");
+const coursesName = require("./data/courses.json");
+const courses = require("./data/data.json");
 
 app.get("/", (req, res) => {
   res.send("Server is okay");
 });
 
 app.get("/courses", (req, res) => {
+  res.send(coursesName);
+});
+app.get("/courses/all", (req, res) => {
   res.send(courses);
 });
 
