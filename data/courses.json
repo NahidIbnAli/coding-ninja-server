@@ -1,26 +1,26 @@
 [
   {
-    "id": 1,
+    "id": "01",
     "name": "The Ultimate HTML/CSS Mastery Course"
   },
   {
-    "id": 2,
+    "id": "02",
     "name": "The Ultimate JavaScript Course"
   },
   {
-    "id": 3,
+    "id": "03",
     "name": "Mastering React"
   },
   {
-    "id": 4,
+    "id": "04",
     "name": "The Ultimate Redux Course"
   },
   {
-    "id": 5,
+    "id": "05",
     "name": "The Ultimate TypeScript Course"
   },
   {
-    "id": 6,
+    "id": "06",
     "name": "The Complete Node.js Course"
   }
 ]

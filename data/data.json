@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "01",
     "name": "The Ultimate HTML/CSS Mastery Course",
     "image": "https://i.ibb.co/cQszdmk/FA-cc-codemosh-nobadge.jpg",
     "title": "Everything you need to build fast and beautiful websites with HTML5 and CSS3 in one course",
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": "02",
     "name": "The Ultimate JavaScript Course",
     "image": "https://i.ibb.co/dc0j1YL/js.png",
     "title": "Master JavaScript: Go from Beginner to Pro",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": "03",
     "name": "Mastering React",
     "image": "https://i.ibb.co/D114W4Q/2-2.jpg",
     "title": "Understand React inside out and boost your career prospects",
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": "04",
     "name": "The Ultimate Redux Course",
     "image": "https://i.ibb.co/bRhGYBZ/Redux.jpg",
     "title": "Go from beginner to expert in 6 hours. Everything you need to build modern apps with Redux.",
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": "05",
     "name": "The Ultimate TypeScript Course",
     "image": "https://i.ibb.co/4pLJ8rJ/convert.jpg",
     "title": "Learn to make your JavaScript applications scale",
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": "06",
     "name": "The Complete Node.js Course",
     "image": "https://i.ibb.co/JCg3GKq/nodejs-1500x844.png",
     "title": "Learn to build highly-scalable, fast and secure RESTful APIs with Node, Express, and MongoDB.",
